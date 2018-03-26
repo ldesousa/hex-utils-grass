@@ -21,7 +21,7 @@ New information is also posted on Twitter under the [#HexASCII](https://twitter.
 Description
 -------------------------------------------------------------------------------
 
-This project provides a suite of modules to process [HexASCII](https://github.com/ldesousa/HexAsciiBNF) rasters in the GRASS spatial analysis system. It makes use of the [hex-utils](https://github.com/ldesousa/hex-utils) toolkit to import/export exagonal raster into/from the internal GRASS data format.
+This project provides a suite of modules to process [HexASCII](https://github.com/ldesousa/HexAsciiBNF) rasters in the GRASS spatial analysis system. It makes use of the [hex-utils](https://github.com/ldesousa/hex-utils) toolkit to import/export hexagonal raster into/from the internal GRASS data format.
 
 
 Installation
